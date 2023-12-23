@@ -576,6 +576,8 @@ require("mason-lspconfig").setup({
 		"pyright",
 		"vimls",
 		"volar",
+		"jdtls",
+		"vtsls",
 	},
 })
 -- If you want insert `(` after select function or method item
